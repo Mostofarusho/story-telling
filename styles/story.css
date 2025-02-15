@@ -1,0 +1,27 @@
+.story_header{
+    font-size: larger;
+    text-align: center;
+    
+}
+.story{
+    display: block;
+    margin-bottom:5px ;
+}
+.story_button{
+    font-size: large;
+    text-align: center;
+    background-color:black;
+    color: whitesmoke;
+}
+.radio-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    border: 2px solid #007BFF;
+    background-color: white;
+    color: #007BFF;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 5px;
+    user-select: none;
+}
